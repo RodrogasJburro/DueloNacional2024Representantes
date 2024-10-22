@@ -1,4 +1,4 @@
-# Representantes do Duelo de MCs Nacional 2024 (20/36)
+# Representantes do Duelo de MCs Nacional 2024 (22/36)
 eu vou tentar atualizar isso aqui até lá 
 
 
@@ -120,3 +120,13 @@ eu vou tentar atualizar isso aqui até lá
 # Mato Grosso do Sul (MS):
 
 - Miliano
+
+
+# Sergipe (SE):
+
+- Hellbala
+
+
+# Rondônia (RO):
+
+- Velhote
