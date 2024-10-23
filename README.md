@@ -1,4 +1,4 @@
-# Representantes do Duelo de MCs Nacional 2024 (22/36)
+# Representantes do Duelo de MCs Nacional 2024 (22/27)
 eu vou tentar atualizar isso aqui até lá 
 
 
