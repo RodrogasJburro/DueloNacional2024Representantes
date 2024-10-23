@@ -8,11 +8,9 @@ eu vou tentar atualizar isso aqui até lá
 - PH21
 
 
-
 # Rio de Janeiro (RJ):
 
 - WL BXD
-
 
 
 # Pernambuco (PE):
@@ -20,11 +18,9 @@ eu vou tentar atualizar isso aqui até lá
 - ???
 
 
-
 # Goiás (GO):
 
 - Dadin
-
 
 
 # Paraíba (PB):
@@ -32,11 +28,9 @@ eu vou tentar atualizar isso aqui até lá
 - Druh
 
 
-
 # Tocantins (TO):
 
 - Frajola
-
 
 
 # Amazonas (AM):
@@ -44,11 +38,9 @@ eu vou tentar atualizar isso aqui até lá
 - Menor MC
 
 
-
 # Roraima (RR):
 
 - Neto
-
 
 
 # Pará (PA):
@@ -56,11 +48,9 @@ eu vou tentar atualizar isso aqui até lá
 - Mão no Bolso
 
 
-
 # Rio Grande do Norte (RN):
 
 - Torris
-
 
 
 # Piauí (PI):
@@ -68,11 +58,9 @@ eu vou tentar atualizar isso aqui até lá
 - Ranny
 
 
-
 # Maranhão (MA):
 
 - Hades
-
 
 
 # Ceará (CE):
@@ -80,17 +68,14 @@ eu vou tentar atualizar isso aqui até lá
 - Davcena
 
 
-
 # Paraná (PR):
 
 - Subene
 
 
-
 # Mato Grosso (MT): 
 
 - Havel
-
 
 
 # Mato Grosso do Sul (MS):
@@ -103,11 +88,9 @@ eu vou tentar atualizar isso aqui até lá
 - Akira
 
 
-
 # Amapá (AP):
 
 - TK da 14
-
 
 
 # São Paulo (SP):
@@ -115,11 +98,9 @@ eu vou tentar atualizar isso aqui até lá
 - Apollo
 
 
-
 # Santa Catarina (SC):
 
 - WG
-
 
 
 # Espírito Santo (ES):
@@ -127,17 +108,14 @@ eu vou tentar atualizar isso aqui até lá
 - JR The Princee
 
 
-
 # Bahia (BA): 
 
 - ???
 
 
-
 # Rondônia (RO):
 
 - Velhote
-
 
 
 # Sergipe (SE):
@@ -150,11 +128,9 @@ eu vou tentar atualizar isso aqui até lá
 - ???
 
 
-
 # Distrito Federal (DF):
 
 - ???
-
 
 
 # Rio Grande do Sul (RS): 
