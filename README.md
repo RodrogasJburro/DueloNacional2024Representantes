@@ -1,6 +1,5 @@
-# Representantes do Duelo de MCs Nacional 2024 (22/32) - lembrando que faltam apenas 5 estaduais!
-eu vou tentar atualizar isso aqui até lá 
-
+# Representantes do Duelo de MCs Nacional 2024 (22/32)
+e lembrando que faltam apenas 5 estaduais!
 
 
 # Minas Gerais (MG):
