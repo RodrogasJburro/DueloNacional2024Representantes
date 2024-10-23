@@ -15,6 +15,12 @@ eu vou tentar atualizar isso aqui até lá
 
 
 
+# Pernambuco (PE):
+
+- ???
+
+
+
 # Goiás (GO):
 
 - Dadin
@@ -45,15 +51,15 @@ eu vou tentar atualizar isso aqui até lá
 
 
 
-# Rio Grande do Norte (RN):
-
-- Torris
-
-
-
 # Pará (PA):
 
 - Mão no Bolso
+
+
+
+# Rio Grande do Norte (RN):
+
+- Torris
 
 
 
@@ -87,6 +93,11 @@ eu vou tentar atualizar isso aqui até lá
 
 
 
+# Mato Grosso do Sul (MS):
+
+- Miliano
+
+
 # Alagoas (AL):
 
 - Akira
@@ -117,9 +128,16 @@ eu vou tentar atualizar isso aqui até lá
 
 
 
-# Mato Grosso do Sul (MS):
+# Bahia (BA): 
 
-- Miliano
+- ???
+
+
+
+# Rondônia (RO):
+
+- Velhote
+
 
 
 # Sergipe (SE):
@@ -127,6 +145,18 @@ eu vou tentar atualizar isso aqui até lá
 - Hellbala
 
 
-# Rondônia (RO):
+# Acre (AC):
 
-- Velhote
+- ???
+
+
+
+# Distrito Federal (DF):
+
+- ???
+
+
+
+# Rio Grande do Sul (RS): 
+
+- ???
