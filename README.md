@@ -12,7 +12,7 @@ e lembrando que faltam apenas 5 estaduais!
 - WL BXD
 
 
-# Pernambuco (PE):
+# Pernambuco (PE): (02/11)
 
 - ???
 
@@ -107,7 +107,7 @@ e lembrando que faltam apenas 5 estaduais!
 - JR The Princee
 
 
-# Bahia (BA): 
+# Bahia (BA): (26/10)
 
 - ???
 
@@ -122,16 +122,29 @@ e lembrando que faltam apenas 5 estaduais!
 - Hellbala
 
 
-# Acre (AC):
+# Acre (AC): (25/10)
 
 - ???
 
 
-# Distrito Federal (DF):
+# Distrito Federal (DF): (26/10)
 
 - ???
 
 
 # Rio Grande do Sul (RS): 
+
+- ???
+
+
+# Repescagem: (??/11 - provável que seja em novembro, é só uma especulação minha)
+
+- ???
+
+- ???
+
+- ???
+
+- ???
 
 - ???
