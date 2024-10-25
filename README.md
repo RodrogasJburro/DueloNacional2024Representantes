@@ -132,7 +132,7 @@ e lembrando que faltam apenas 5 estaduais!
 - ???
 
 
-# Rio Grande do Sul (RS): 
+# Rio Grande do Sul (RS): (02/11)
 
 - ???
 
