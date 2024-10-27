@@ -1,5 +1,5 @@
-# Representantes do Duelo de MCs Nacional 2024 (24/32)
-e lembrando que faltam apenas 3 estaduais!
+# Representantes do Duelo de MCs Nacional 2024 (25/32)
+e lembrando que faltam apenas 2 estaduais!
 
 
 # Minas Gerais (MG):
@@ -107,9 +107,9 @@ e lembrando que faltam apenas 3 estaduais!
 - JR The Princee
 
 
-# (26/10) Bahia (BA):
+# Bahia (BA):
 
-- ???
+- Negrão CSI
 
 
 # Rondônia (RO):
