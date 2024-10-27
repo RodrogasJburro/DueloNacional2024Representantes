@@ -1,5 +1,5 @@
-# Representantes do Duelo de MCs Nacional 2024 (22/32)
-e lembrando que faltam apenas 5 estaduais!
+# Representantes do Duelo de MCs Nacional 2024 (24/32)
+e lembrando que faltam apenas 3 estaduais!
 
 
 # Minas Gerais (MG):
@@ -122,14 +122,14 @@ e lembrando que faltam apenas 5 estaduais!
 - Hellbala
 
 
-# (25/10) Acre (AC):
+# Acre (AC):
 
-- ???
+- El Tchuco
 
 
-# (26/10) Distrito Federal (DF):
+# Distrito Federal (DF):
 
-- ???
+- JP
 
 
 # (02/11) Rio Grande do Sul (RS):
