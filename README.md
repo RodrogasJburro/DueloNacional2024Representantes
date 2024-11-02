@@ -1,5 +1,4 @@
-# Representantes do Duelo de MCs Nacional 2024 (25/32)
-e lembrando que faltam apenas 2 estaduais!
+# Representantes do Duelo de MCs Nacional 2024 (26/32)
 
 
 # Minas Gerais (MG):
@@ -134,7 +133,7 @@ e lembrando que faltam apenas 2 estaduais!
 
 # (02/11) Rio Grande do Sul (RS):
 
-- ???
+- Xamuel
 
 
 # (??/11) Repescagem:
@@ -149,5 +148,3 @@ e lembrando que faltam apenas 2 estaduais!
 
 - ???
 
-
-(é provável que seja pro meio de novembro, é só uma especulação minha)
