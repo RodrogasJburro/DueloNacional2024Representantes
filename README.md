@@ -1,4 +1,4 @@
-# Representantes do Duelo de MCs Nacional 2024 (26/32)
+# Representantes do Duelo de MCs Nacional 2024 (27/32)
 
 
 # Minas Gerais (MG):
@@ -11,9 +11,9 @@
 - WL BXD
 
 
-# (02/11) Pernambuco (PE):
+# Pernambuco (PE):
 
-- ???
+- Jason MC
 
 
 # Goiás (GO):
@@ -131,7 +131,7 @@
 - JP
 
 
-# (02/11) Rio Grande do Sul (RS):
+# Rio Grande do Sul (RS):
 
 - Xamuel
 
