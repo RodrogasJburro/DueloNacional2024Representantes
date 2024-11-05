@@ -136,7 +136,7 @@
 - Xamuel
 
 
-# (??/11) Repescagem:
+# (09/11 - 14h) Repescagem:
 
 - ???
 
