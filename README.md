@@ -136,7 +136,7 @@
 - Xamuel
 
 
-# (09/11 - 14h) Repescagem:
+# (09/11) Repescagem:
 
 - Martzin (MG)
 
