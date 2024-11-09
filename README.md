@@ -1,4 +1,4 @@
-# Representantes do Duelo de MCs Nacional 2024 (30/32)
+# Representantes do Duelo de MCs Nacional 2024 (31/32)
 
 
 # Minas Gerais (MG):
