@@ -136,7 +136,7 @@
 - Xamuel
 
 
-# (09/11) Repescagem:
+# Repescagem:
 
 - Martzin (MG)
 
