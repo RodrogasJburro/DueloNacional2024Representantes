@@ -1,4 +1,4 @@
-# Representantes do Duelo de MCs Nacional 2024 (31/32)
+# Representantes do Duelo de MCs Nacional 2024
 
 
 # Minas Gerais (MG):
@@ -146,5 +146,5 @@
 
 - Bobby Midya (PA)
 
-- ???
+- Noventa (ES)
 
