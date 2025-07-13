@@ -97,4 +97,4 @@ Martzin (MG) `2x1` ~Japa (BA)~
 🥇 MCS NACIONAL 2024!!! 🥇
 ```
 
-`Chaveamento by: [@rødrøgas.essi](https://instagram.com/@rodrogas.essi)`
+`Chaveamento by:` [@rødrøgas.essi](https://instagram.com/@rodrogas.essi)
