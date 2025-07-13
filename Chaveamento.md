@@ -38,35 +38,63 @@ Akira (AL) `2x1` ~JR The Princee (ES)~
 
 - ### Segunda fase:
 
- Hellbala (SE) 0️⃣x2️⃣ Ph21 (MG)
-Noventa (ES) 2️⃣x0️⃣ Subene (PR)
-      Neto (RR) 0️⃣x2️⃣ Japa (BA)
-      Akira (AL) 1️⃣x2️⃣ Mão no Bolso (PA)
-  Xamuel (RS) 0️⃣x2️⃣ Menor MC (AM)
-    Apollo (SP) 2️⃣x1️⃣ Jason (PE)
-Martzin (MG) 2️⃣x0️⃣ El Tchuco (AC)
- WL BXD (RJ) 2️⃣x0️⃣ JP (DF)
+Hellbala (SE) `0x2` Ph21 (MG)
 
-- *Quartas de final:*
+Noventa (ES) `2x0` Subene (PR)
 
-           Japa (BA) 2️⃣x0️⃣ WL BXD (RJ)
-         Apollo (SP) 1️⃣x2️⃣ Martzin (MG)
-          Ph21 (MG) 0️⃣x2️⃣ Noventa (ES)
-Menor MC (AM) 2️⃣x1️⃣ Mão no Bolso (PA)
+Neto (RR) `0x2` Japa (BA)
 
-- *Semifinais:*
+Akira (AL) `1x2` Mão no Bolso (PA)
 
-Martzin (MG) 2️⃣x0️⃣ Menor MC (AM)
-Noventa (ES) 1️⃣x2️⃣ Japa (BA)
+Xamuel (RS) `0x2` Menor MC (AM)
 
-- *Disputa pelo terceiro lugar:*
+Apollo (SP) `2x1` Jason (PE)
 
-Menor MC (AM) 0️⃣x2️⃣ Noventa (ES)
-*_🥉 Noventa fica com o terceiro lugar na competição🥉_*
+Martzin (MG) `2x0` El Tchuco (AC)
 
-- *Grande final:*
+WL BXD (RJ) `2x0` JP (DF)
 
-Martzin (MG) 2️⃣x1️⃣ Japa (BA)
+---------------------------------------------------
 
-*_🥇 MARTZIN É O GRANDE CAMPEÃO DO DUELO DE MCS NACIONAL 2024!!! 🥇_*
+- ### Quartas de final:
+
+Japa (BA) `2x0` WL BXD (RJ)
+
+Apollo (SP) `1x2` Martzin (MG)
+
+Ph21 (MG) `0x2` Noventa (ES)
+
+Menor MC (AM) `2x1` Mão no Bolso (PA)
+
+---------------------------------------------------
+
+- ### Semifinais:
+
+Martzin (MG) `2x0` Menor MC (AM)
+
+Noventa (ES) `1x2` Japa (BA)
+
+---------------------------------------------------
+
+- ### Disputa pelo terceiro lugar:
+
+Menor MC (AM) `0x2` Noventa (ES)
+
+```
+🥉 Noventa fica com o 3º 🥉
+🥉  lugar na competição  🥉
+```
+
+---------------------------------------------------
+
+- ### Grande final:
+
+Martzin (MG) `2x1` Japa (BA)
+
+```
+🥇 MARTZIN É O GRANDE   🥇
+🥇 CAMPEÃO DO DUELO DE  🥇
+🥇 MCS NACIONAL 2024!!! 🥇
+```
+
 Chaveamento by: @rødrøgas.essi
