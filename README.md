@@ -49,30 +49,31 @@
 
 ---------------------------------------------------
 
-### Tenkaichi Kakarot BETA 4:
+### **__Tenkaichi Kakarot BETA 4:__**
 - https://www.mediafire.com/file/nfrn2qeqaa1ck0g/DEMO_BETA_4.ISO/file
 
 ---------------------------------------------------
 
-### God Hand Perfectly V3:
+### **__God Hand Perfectly V3:__**
 - https://www.4shared.com/rar/kiq3NGRMjq/God_Hand_Perfectly_V3_Mod_NG.html
 
 ---------------------------------------------------
 
-### Tenkaichi 3 KAKAROT BETA 5 para PS3 HEN PKG: 
+### **__Tenkaichi 3 KAKAROT BETA 5 para PS3 HEN PKG:__** 
 - https://www.mediafire.com/file/2vrarqqjzt26f40/DragonBall_Z_-_PROJECT_KAKAROT_beta_5_%5BPS2_Classics%5D_%5BSLUS99104%5D.pkg/file 
 
 ---------------------------------------------------
 
-### MK Shaolin Monks Infinito: 
+### **__MK Shaolin Monks Infinito:__**
 - https://www.4shared.com/rar/GD2TDyiKku/Mortal_Kombat_-_Shaolin_Monks_.html
 [Link do vídeo do Mod](https://youtu.be/62kgjewufVo?si=dsM2jxCDHdSNpJ7D)
 
 ---------------------------------------------------
 
-### Mods RE4 CJ e Nemesis
+### **__Mods RE4 CJ e Nemesis__**
 
-### **__RE4 Mod CJ:__** - https://drive.google.com/file/d/1yWDGXV2YqIYCTvpJ1SVaEEK3WvyakkcM/view?usp=drive_link
+### **__RE4 Mod CJ:__** 
+- https://drive.google.com/file/d/1yWDGXV2YqIYCTvpJ1SVaEEK3WvyakkcM/view?usp=drive_link
 
 ### **__RE4 Mod Nemesis:__**
 - https://drive.google.com/file/d/1KiVVxSnZFqWKEY7bfqj8lishqMjW7YYl/view?usp=drive_link
