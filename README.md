@@ -1,76 +1,49 @@
-~> Títulos:
+# Todos os links de Mods já postados:
 
-# Título nível 1
-## Título nível 2
-### Título nível 3
+### **__Emulador PS2 PC com Save BT3 e BT4 com Red Potara:__**
+ https://www.4shared.com/rar/AFHRxkedfa/PCSX17.html?
+[Link do vídeo do Mod](https://youtu.be/fCwP7Aa9v_s?si=lID5yJ5jW36dNeHf)
 
----------------------------------------------------
+~> Tenkaichi 4 Beta X:
+- https://www.4shared.com/archive/hcPzdOc3ku/SLUS_21978Dragon_Ball_Z_Budoka.html
+[Link do vídeo do Mod](https://youtu.be/J_C_fVqX8Oo?si=hzurvif65kHVFCyI)
 
-~> Estilos de texto:
+~> MOD Anomalias 2018:
+- https://www.4shared.com/rar/ptv77HR7ku/DBZ_BT3__GOD_e_Lindas_Anomalia.html
+[Link do vídeo do Mod](https://youtu.be/XFxC2W7ccks?si=W-T-Uh3D4_zRDtNw)
 
-**Texto em negrito**
-
-__Também texto em negrito__
-
-_Texto em Itálico_
-
-*Também texto em Itálico*
-
-~~Texto taxado~~
-
-~Também texto taxado~
-
-**__Texto em negrito e Itálico soq torto__**
-
-***Texto todo negrito e Itálico***
-
-Texto <sub>subscrito</sub>
-
-Texto <sup>sobrescrito</sup>
-
-Texto <ins>sublinhado</ins>
-
----------------------------------------------------
-
-~> Texto de referência:
-
-> Texto de citação
-
----------------------------------------------------
-
-~> Citar código:
-
-`Texto` que `cita` um `código`
-
-```
-Você também pode usar as aspas triplas para criar textos assim.
-Em mais de uma linha
-Bem mais de uma linha
-```
-
----------------------------------------------------
-
-~> Links:
-
-O texto do link pode ser escrito em colchetes e a [URL do vídeo](https://youtu.be/xvFZjo5PgG0?si=PqtdrruHdwcvvKUF) pode ser escrita em parênteses.
-
----------------------------------------------------
-
-~> Alertas:
+~> Ultimo Mod Lori Game: 
+- https://www.1024tera.com/portuguese/sharing/link?surl=r0jISVdbLH3izndMX50yxQ
+[Link do vídeo do Mod](
 
 
-> [!NOTE]
-> Informações úteis que os usuários devem saber, mesmo ao ler o conteúdo rapidamente.
+~> Melhor MOD GT 2025:
+- https://www.mediafire.com/file/9sb8sr7mcusq35j/GT_only_v2_by_luktsu.rar/file
+[Link do vídeo do Mod](https://youtu.be/J_C_fVqX8Oo?si=hzurvif65kHVFCyI)
 
-> [!TIP]
-> Conselhos úteis para fazer as coisas melhor ou mais facilmente.
+~> Tenkaichi 4 Beta 13 v5 Ps2 e Emulador: 
+- https://drive.google.com/file/d/1_zMIWCEygK7jBCqXAHjIeQDfkmCZYbNx/view
 
-> [!IMPORTANT]
-> Informações essenciais que os usuários precisam saber para atingir seus objetivos.
+~> Tenkaichi 4 Beta 4:
+- https://www.mediafire.com/file/d4jdlxwkqwr5o1k/DBZ_Budokai_Tenkaichi_4_v4.ISO/file
 
-> [!WARNING]
-> Informações urgentes que precisam de atenção imediata do usuário para evitar problemas.
+~> Tenkaichi 3 Gráfico Diferenciado 2018:
+- https://www.4shared.com/rar/tPC9WTv5ge/DBZ_BT3_Grfico_Melhorado.html
 
-> [!CAUTION]
-> Avisa sobre riscos ou resultados negativos de determinadas ações.
+~> Tenkaichi Kakarot BETA 4:
+- https://www.mediafire.com/file/nfrn2qeqaa1ck0g/DEMO_BETA_4.ISO/file
 
+~> God Hand Perfectly V3:
+- https://www.4shared.com/rar/kiq3NGRMjq/God_Hand_Perfectly_V3_Mod_NG.html
+
+~> Tenkaichi 3 KAKAROT BETA 5 para PS3 HEN PKG: 
+- https://www.mediafire.com/file/2vrarqqjzt26f40/DragonBall_Z_-_PROJECT_KAKAROT_beta_5_%5BPS2_Classics%5D_%5BSLUS99104%5D.pkg/file 
+
+~> MK Shaolin Monks Infinito: 
+- https://www.4shared.com/rar/GD2TDyiKku/Mortal_Kombat_-_Shaolin_Monks_.html
+
+~> RE4 Mod CJ:
+- https://drive.google.com/file/d/1yWDGXV2YqIYCTvpJ1SVaEEK3WvyakkcM/view?usp=drive_link
+
+~> RE4 Mod Nemesis:
+https://drive.google.com/file/d/1KiVVxSnZFqWKEY7bfqj8lishqMjW7YYl/view?usp=drive_link
