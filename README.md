@@ -56,3 +56,21 @@ O texto do link pode ser escrito em colchetes e a [URL do vídeo](https://youtu.
 
 ---------------------------------------------------
 
+~> Alertas:
+
+
+> [!NOTE]
+> Informações úteis que os usuários devem saber, mesmo ao ler o conteúdo rapidamente.
+
+> [!TIP]
+> Conselhos úteis para fazer as coisas melhor ou mais facilmente.
+
+> [!IMPORTANT]
+> Informações essenciais que os usuários precisam saber para atingir seus objetivos.
+
+> [!WARNING]
+> Informações urgentes que precisam de atenção imediata do usuário para evitar problemas.
+
+> [!CAUTION]
+> Avisa sobre riscos ou resultados negativos de determinadas ações.
+
