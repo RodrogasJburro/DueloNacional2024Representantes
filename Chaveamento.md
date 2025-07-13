@@ -2,37 +2,37 @@
 
 - ### Primeira fase:
 
-Hellbala (SE) 2️⃣x0️⃣ Torris (RN)
+Hellbala (SE) 2️⃣x0️⃣ ~Torris (RN)~
 
-Japa (BA) 2️⃣x0️⃣ Miliano (MS)
+Japa (BA) 2️⃣x0️⃣ ~Miliano (MS)~
 
-Noventa (ES) 2️⃣x0️⃣ Kamui (MS)
+Noventa (ES) 2️⃣x0️⃣ ~Kamui (MS)~
 
-Dadin (GO) 1️⃣x2️⃣ Xamuel (RS)
+~Dadin (GO)~ 1️⃣x2️⃣ Xamuel (RS)
 
-Martin (CE) 0️⃣x2️⃣ Martzin (MG)
+~Martin (CE)~ 0️⃣x2️⃣ Martzin (MG)
 
-Jason (PE) 2️⃣x0️⃣ Bobby Midya (PA)
+Jason (PE) 2️⃣x0️⃣ ~Bobby Midya (PA)~
 
-Neto (RR) 2️⃣x1️⃣ Druh (PB)
+Neto (RR) 2️⃣x1️⃣ ~Druh (PB)~
 
-WL BXD (RJ) 2️⃣x1️⃣ Havel (MT)
+WL BXD (RJ) 2️⃣x1️⃣ ~Havel (MT)~
 
-Frajola (TO) 1️⃣x2️⃣ El Tchuco (AC)
+~Frajola (TO)~ 1️⃣x2️⃣ El Tchuco (AC)
 
-Ph21 (MG) 2️⃣x1️⃣ WG (SC)
+Ph21 (MG) 2️⃣x1️⃣ ~WG (SC)~
 
-Davcena (CE) 1️⃣x2️⃣ Menor MC (AM)
+~Davcena (CE)~ 1️⃣x2️⃣ Menor MC (AM)
 
-Apollo (SP) 2️⃣x1️⃣ Velhote (RO)
+Apollo (SP) 2️⃣x1️⃣ ~Velhote (RO)~
 
-Subene (PR) 2️⃣x0️⃣ Hades (MA)
+Subene (PR) 2️⃣x0️⃣ ~Hades (MA)~
 
-TK da 14 (AP) 0️⃣x2️⃣ JP (DF)
+~TK da 14 (AP)~ 0️⃣x2️⃣ JP (DF)
 
-Ranny (PI) 1️⃣x2️⃣ Mão no Bolso (PA)
+~Ranny (PI)~ 1️⃣x2️⃣ Mão no Bolso (PA)
 
-Akira (AL) 2️⃣x1️⃣ JR The Princee (ES)
+Akira (AL) 2️⃣x1️⃣ ~JR The Princee (ES)~
 
 - ### Segunda fase:
 
