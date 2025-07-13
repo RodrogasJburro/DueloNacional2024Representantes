@@ -1,6 +1,6 @@
 # Todos os links de Mods já postados:
 
-# Emulador PS2 PC com Save BT3 e BT4 com Red Potara:
+~ Emulador PS2 PC com Save BT3 e BT4 com Red Potara:
 - https://www.4shared.com/rar/AFHRxkedfa/PCSX17.html?
 
 # Tenkaichi 4 Beta X:
