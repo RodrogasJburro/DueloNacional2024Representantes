@@ -37,6 +37,8 @@
 ### **__Tenkaichi 4 Beta 13 v5 Ps2 e Emulador:__**
 - https://drive.google.com/file/d/1_zMIWCEygK7jBCqXAHjIeQDfkmCZYbNx/view
 
+[Link do vídeo do Mod](https://youtu.be/jC7NjgMKbYA?si=7Iq7FBUn1vTo2-Y7)
+
 ---------------------------------------------------
 
 ### **__Tenkaichi 4 Beta 4:__**
@@ -47,15 +49,21 @@
 ### **__Tenkaichi 3 Gráfico Diferenciado 2018:__**
 - https://www.4shared.com/rar/tPC9WTv5ge/DBZ_BT3_Grfico_Melhorado.html
 
+[Link do vídeo do Mod](https://youtu.be/E6jUop9N0Bk?si=qS00gey9ibqyAYqj)
+
 ---------------------------------------------------
 
 ### **__Tenkaichi Kakarot BETA 4:__**
 - https://www.mediafire.com/file/nfrn2qeqaa1ck0g/DEMO_BETA_4.ISO/file
 
+[Link do vídeo do Mod](https://youtu.be/bSLu2mcv4ho?si=3WpRRw4g3vkYWqwy)
+
 ---------------------------------------------------
 
 ### **__God Hand Perfectly V3:__**
 - https://www.4shared.com/rar/kiq3NGRMjq/God_Hand_Perfectly_V3_Mod_NG.html
+
+[Link do Mod do vídeo](https://youtu.be/PCH_92OhK6o?si=4uLy-m8TVniycPkt)
 
 ---------------------------------------------------
 
@@ -66,6 +74,7 @@
 
 ### **__MK Shaolin Monks Infinito:__**
 - https://www.4shared.com/rar/GD2TDyiKku/Mortal_Kombat_-_Shaolin_Monks_.html
+
 [Link do vídeo do Mod](https://youtu.be/62kgjewufVo?si=dsM2jxCDHdSNpJ7D)
 
 ---------------------------------------------------
