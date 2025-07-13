@@ -7,7 +7,8 @@
 
 ---------------------------------------------------
 
-### **__Tenkaichi 4 Beta X:__** - https://www.4shared.com/archive/hcPzdOc3ku/SLUS_21978Dragon_Ball_Z_Budoka.html
+### **__Tenkaichi 4 Beta X:__**
+- https://www.4shared.com/archive/hcPzdOc3ku/SLUS_21978Dragon_Ball_Z_Budoka.html
 
 [Link do vídeo do Mod](https://youtu.be/J_C_fVqX8Oo?si=hzurvif65kHVFCyI)
 
