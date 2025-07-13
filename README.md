@@ -66,6 +66,7 @@
 
 ### MK Shaolin Monks Infinito: 
 - https://www.4shared.com/rar/GD2TDyiKku/Mortal_Kombat_-_Shaolin_Monks_.html
+[Link do vídeo do Mod](https://youtu.be/62kgjewufVo?si=dsM2jxCDHdSNpJ7D)
 
 ---------------------------------------------------
 
