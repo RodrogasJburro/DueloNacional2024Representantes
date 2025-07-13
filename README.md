@@ -1,7 +1,7 @@
 # Todos os links de Mods já postados:
 
 ### **__Emulador PS2 PC com Save BT3 e BT4 com Red Potara:__**
-https://www.4shared.com/rar/AFHRxkedfa/PCSX17.html?
+https://www.4shared.com/rar/AFHRxkedfa/PCSX17.html
 
 [Link do vídeo do Mod](https://youtu.be/fCwP7Aa9v_s?si=lID5yJ5jW36dNeHf)
 
