@@ -71,10 +71,10 @@
 
 ### Mods RE4 CJ e Nemesis
 
-### **__RE4 Mod CJ:__** https://drive.google.com/file/d/1yWDGXV2YqIYCTvpJ1SVaEEK3WvyakkcM/view?usp=drive_link
+### **__RE4 Mod CJ:__** - https://drive.google.com/file/d/1yWDGXV2YqIYCTvpJ1SVaEEK3WvyakkcM/view?usp=drive_link
 
 ### **__RE4 Mod Nemesis:__**
-https://drive.google.com/file/d/1KiVVxSnZFqWKEY7bfqj8lishqMjW7YYl/view?usp=drive_link
+- https://drive.google.com/file/d/1KiVVxSnZFqWKEY7bfqj8lishqMjW7YYl/view?usp=drive_link
 
 [Link do vídeo de ambos os mods](https://youtu.be/PQGsXS3Gnzc?si=VlVrk28PSz9RAmFI)
 
