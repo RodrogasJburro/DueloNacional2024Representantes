@@ -23,7 +23,7 @@
 ### **__Ultimo Mod Lori Game:__**
 - https://www.1024tera.com/portuguese/sharing/link?surl=r0jISVdbLH3izndMX50yxQ
 
-[Link do vídeo do Mod](
+[Link do vídeo do Mod](https://youtu.be/T7FYEKIp8-k?si=lj43-cN464ADbUvX)
 
 ---------------------------------------------------
 
