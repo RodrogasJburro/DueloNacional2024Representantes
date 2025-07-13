@@ -38,47 +38,47 @@ Akira (AL) `2x1` ~JR The Princee (ES)~
 
 - ### Segunda fase:
 
-Hellbala (SE) `0x2` Ph21 (MG)
+~Hellbala (SE)~ `0x2` Ph21 (MG)
 
-Noventa (ES) `2x0` Subene (PR)
+Noventa (ES) `2x0` ~Subene (PR)~
 
-Neto (RR) `0x2` Japa (BA)
+~Neto (RR)~ `0x2` Japa (BA)
 
-Akira (AL) `1x2` Mão no Bolso (PA)
+~Akira (AL)~ `1x2` Mão no Bolso (PA)
 
-Xamuel (RS) `0x2` Menor MC (AM)
+~Xamuel (RS)~ `0x2` Menor MC (AM)
 
-Apollo (SP) `2x1` Jason (PE)
+Apollo (SP) `2x1` ~Jason (PE)~
 
-Martzin (MG) `2x0` El Tchuco (AC)
+Martzin (MG) `2x0` ~El Tchuco (AC)~
 
-WL BXD (RJ) `2x0` JP (DF)
+WL BXD (RJ) `2x0` ~JP (DF)~
 
 ---------------------------------------------------
 
 - ### Quartas de final:
 
-Japa (BA) `2x0` WL BXD (RJ)
+Japa (BA) `2x0` ~WL BXD (RJ)~
 
-Apollo (SP) `1x2` Martzin (MG)
+~Apollo (SP)~ `1x2` Martzin (MG)
 
-Ph21 (MG) `0x2` Noventa (ES)
+~Ph21 (MG)~ `0x2` Noventa (ES)
 
-Menor MC (AM) `2x1` Mão no Bolso (PA)
+Menor MC (AM) `2x1` ~Mão no Bolso (PA)~
 
 ---------------------------------------------------
 
 - ### Semifinais:
 
-Martzin (MG) `2x0` Menor MC (AM)
+Martzin (MG) `2x0` ~Menor MC (AM)~
 
-Noventa (ES) `1x2` Japa (BA)
+~Noventa (ES)~ `1x2` Japa (BA)
 
 ---------------------------------------------------
 
 - ### Disputa pelo terceiro lugar:
 
-Menor MC (AM) `0x2` Noventa (ES)
+~Menor MC (AM)~ `0x2` Noventa (ES)
 
 ```
 🥉 Noventa fica com o 3º 🥉
@@ -89,7 +89,7 @@ Menor MC (AM) `0x2` Noventa (ES)
 
 - ### Grande final:
 
-Martzin (MG) `2x1` Japa (BA)
+Martzin (MG) `2x1` ~Japa (BA)~
 
 ```
 🥇 MARTZIN É O GRANDE   🥇
@@ -97,4 +97,4 @@ Martzin (MG) `2x1` Japa (BA)
 🥇 MCS NACIONAL 2024!!! 🥇
 ```
 
-Chaveamento by: @rødrøgas.essi
+`Chaveamento by: [@rødrøgas.essi](https://instagram.com/@rodrogas.essi)`
