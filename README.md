@@ -9,15 +9,25 @@
 ~> Estilos de texto:
 
 **Texto em negrito**
+
 __Também texto em negrito__
+
 _Texto em Itálico_
+
 *Também texto em Itálico*
+
 ~~Texto taxado~~
+
 ~Também texto taxado~
+
 **__Texto em negrito e Itálico soq torto__**
+
 ***Texto todo negrito e Itálico***
+
 Texto <sub>subscrito</sub>
+
 Texto <sup>sobrescrito</sup>
+
 Texto <ins>sublinhado</ins>
 
 ---------------------------------------------------
