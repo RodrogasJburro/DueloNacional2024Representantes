@@ -16,7 +16,7 @@
 ### **__MOD Anomalias 2018:__**
 - https://www.4shared.com/rar/ptv77HR7ku/DBZ_BT3__GOD_e_Lindas_Anomalia.html
 
-[Link do vídeo do Mod](https://youtu.be/XFxC2W7ccks?si=W-T-Uh3D4_zRDtNw)
+[Link do vídeo do Mod](https://youtu.be/EVH_LMeyGBU?si=nGE88R9hlPRStZjv)
 
 ---------------------------------------------------
 
